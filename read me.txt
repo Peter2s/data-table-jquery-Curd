@@ -1,0 +1,14 @@
+Api's
+to get all employees
+http://localhost:3000/employees => method "get"
+
+to Add employee
+http://localhost:3000/employees/ => method "PST" => data : pass Json object from employee
+
+to delete employee
+http://localhost:3000/employees/id => method "DELETE"
+
+to update employee
+http://localhost:3000/employees/id => method "PUT" => data : pass Json object from employee
+
+

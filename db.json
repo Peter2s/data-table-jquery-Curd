@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "samir",
+      "age": "50",
+      "salary": "100"
+    },
+    {
+      "id": "50",
+      "name": "peter salah",
+      "age": "20",
+      "salary": "50"
+    },
+    {
+      "id": "88",
+      "name": "peter",
+      "age": "25",
+      "salary": "700"
+    },
+    {
+      "id": "99",
+      "name": "fahmy",
+      "age": "30",
+      "salary": "50"
+    }
+  ]
+}
